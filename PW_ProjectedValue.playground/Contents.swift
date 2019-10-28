@@ -23,6 +23,7 @@ struct SmallNumber {
         }
     }
 }
+
 struct ProjectedStructure {
     @SmallNumber var number: Int
 }
