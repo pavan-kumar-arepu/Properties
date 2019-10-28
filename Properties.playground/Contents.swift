@@ -9,7 +9,6 @@ struct FixedLengthRange
     var firstValue : Int
     let length : Int
 }
-
 var rangeOfThreeItemsVar = FixedLengthRange(firstValue: 0, length: 3)
 let rangeOfThreeItemsLet = FixedLengthRange(firstValue: 0, length: 3)
 
