@@ -53,3 +53,5 @@ square.center = Point(x: 15.0, y: 15.0)
 print("square.origin is now at (\(square.origin.x), \(square.origin.y))")
 // Prints "square.origin is now at (10.0, 10.0)”
 
+
+//Excerpt From: Apple Inc. “The Swift Programming Language (Swift 5.1)”. Apple Books. 
